@@ -36,6 +36,9 @@ From this folder, replace `./example.pdf` with your PDF:
 .venv/bin/python app.py ./example.pdf
 ```
 
+<img width="1847" height="401" alt="image" src="https://github.com/user-attachments/assets/d09da574-d677-4bdc-a66a-4e63eb80c3ad" />
+
+
 To choose models explicitly:
 
 ```bash
